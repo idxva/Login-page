@@ -1,15 +1,15 @@
-# Login Page 🔐
+# Login Page 
 
 A simple and responsive login page project built to practice web development fundamentals.
 
-## 🚀 Features
+##  Features
 
 - Clean and user-friendly interface
 - Login form with username/email and password fields
 - Responsive design
 - Simple and easy-to-use layout
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML
 - CSS
@@ -17,7 +17,7 @@ A simple and responsive login page project built to practice web development fun
 ## 📸 Preview
 
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 login-page/
@@ -39,7 +39,7 @@ login-page/
 2. Open the project folder.
 3. Open `index.html` in your browser.
 
-## 🎯 Purpose
+##  Purpose
 
 This project was created to improve my frontend development skills and gain practical experience in building user interfaces.
 
