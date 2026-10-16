@@ -16,7 +16,6 @@ A simple and responsive login page project built to practice web development fun
 
 ## 📸 Preview
 
-Add a screenshot of your login page here.
 
 ## 📂 Project Structure
 
@@ -46,7 +45,7 @@ This project was created to improve my frontend development skills and gain prac
 
 ## 👨‍💻 Author
 
-**Deva**
+- GitHub: [idxva](https://github.com/idxva)
 
 ---
 
